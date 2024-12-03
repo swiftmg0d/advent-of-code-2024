@@ -102,5 +102,5 @@ The `results.json` file has the following structure:
 
   }
 }
-```
+````
 - Advent of Code Template by [matijaoe](https://github.com/matijaoe/advent-of-code)
