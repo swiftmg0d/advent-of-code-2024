@@ -18,6 +18,7 @@ Advent of Code is an annual coding challenge that runs from December 1st to Dece
     | |       🎁🎁🎁 
    /|\|/|\   🎁🎁🎁🎁                           
 ````
+
 ## Progress
 
 Here's my progress so far:
@@ -48,7 +49,6 @@ Here's my progress so far:
 [![Day](https://badgen.net/badge/24/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day24)
 [![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day25)
 
-
 ## Star Collection 
 Stars collected: **6/50**⭐
 
@@ -59,26 +59,48 @@ Each day's solution is contained in its own directory. You can navigate to each 
 ## How to Run 
 To run the solutions, you'll need to have [Node.js](https://nodejs.org/) and [Bun](https://bun.sh/) installed. Follow these steps: 
 1. Clone the repository:
-```bash 
-git clone https://github.com/swiftmg0d/aoc2024.git
-````
+   ```bash 
+   git clone https://github.com/swiftmg0d/advent-of-code-2024
+   ```
 2. Install the dependencies:
-```bash 
-node install
-bun install
-````
-3. Day setup
-```bash 
-bun setup <day-number>
-````
-3. Run the solutuon for a specific day in watchmode:
-```bash
-bun setup <day-number> --watch  
-````
-4 Run the solution for a specific day:
-Runs the solution and saves the results in [results.json](https://github.com/swiftmg0d/aoc2024/tree/master/results.json)
-```bash
-bun day <day-number>
-````
+   ```bash 
+   npm install
+   bun install
+   ```
+3. Day setup:
+   ```bash 
+   bun setup <day-number>
+   ```
+4. Run the solution for a specific day in watch mode:
+   ```bash
+   bun setup <day-number> --watch  
+   ```
+5. Run the solution for a specific day:
+   Runs the solution and saves the result in [results.json](https://github.com/swiftmg0d/aoc2024/blob/master/results.json)
+   ```bash
+   bun day <day-number>
+   ```
 
+## Results Format
+
+The `results.json` file has the following structure:
+````json
+{
+  "day1": {
+    "part1": {
+      "solved": true,
+      "result": 1882714,
+      "date": "Tue, 03 Dec 2024 20:04:47 GMT",
+      "performance": "5.05 ms"
+    },
+    "part2": {
+      "solved": true,
+      "result": 100411201,
+      "date": "Tue, 03 Dec 2024 20:35:16 GMT",
+      "performance": "5.73 ms"
+    }
+
+  }
+}
+```
 - Advent of Code Template by [matijaoe](https://github.com/matijaoe/advent-of-code)
