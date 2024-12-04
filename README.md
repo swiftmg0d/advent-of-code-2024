@@ -23,34 +23,34 @@ Advent of Code is an annual coding challenge that runs from December 1st to Dece
 
 Here's my progress so far:
 
-[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day1)
-[![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day2)
-[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day3)
-[![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day4)
-[![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day5)
-[![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day6)
-[![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day7)
-[![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day8)
-[![Day](https://badgen.net/badge/09/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day9)
-[![Day](https://badgen.net/badge/10/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day10)
-[![Day](https://badgen.net/badge/11/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day11)
-[![Day](https://badgen.net/badge/12/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day12)
-[![Day](https://badgen.net/badge/13/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day13)
-[![Day](https://badgen.net/badge/14/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day14)
-[![Day](https://badgen.net/badge/15/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day15)
-[![Day](https://badgen.net/badge/16/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day16)
-[![Day](https://badgen.net/badge/17/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day17)
-[![Day](https://badgen.net/badge/18/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day18)
-[![Day](https://badgen.net/badge/19/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day19)
-[![Day](https://badgen.net/badge/20/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day20)
-[![Day](https://badgen.net/badge/21/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day21)
-[![Day](https://badgen.net/badge/22/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day22)
-[![Day](https://badgen.net/badge/23/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day23)
-[![Day](https://badgen.net/badge/24/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day24)
-[![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day25)
+[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-01)
+[![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-02)
+[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-03)
+[![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-04)
+[![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-05)
+[![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-06)
+[![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-07)
+[![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-08)
+[![Day](https://badgen.net/badge/09/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-09)
+[![Day](https://badgen.net/badge/10/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-10)
+[![Day](https://badgen.net/badge/11/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-11)
+[![Day](https://badgen.net/badge/12/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-12)
+[![Day](https://badgen.net/badge/13/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-13)
+[![Day](https://badgen.net/badge/14/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-14)
+[![Day](https://badgen.net/badge/15/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-15)
+[![Day](https://badgen.net/badge/16/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-16)
+[![Day](https://badgen.net/badge/17/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-17)
+[![Day](https://badgen.net/badge/18/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-18)
+[![Day](https://badgen.net/badge/19/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-19)
+[![Day](https://badgen.net/badge/20/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-20)
+[![Day](https://badgen.net/badge/21/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-21)
+[![Day](https://badgen.net/badge/22/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-22)
+[![Day](https://badgen.net/badge/23/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-23)
+[![Day](https://badgen.net/badge/24/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-24)
+[![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/aoc2024/tree/master/src/day-25)
 
 ## Star Collection 
-Stars collected: **6/50**⭐
+Stars collected: **8/50**⭐
 
 ## Solutions
 
@@ -73,7 +73,7 @@ To run the solutions, you'll need to have [Node.js](https://nodejs.org/) and [Bu
    ```
 4. Run the solution for a specific day in watch mode:
    ```bash
-   bun day <day-number> --watch 
+   bun setup <day-number> --watch  
    ```
 5. Run the solution for a specific day:
    Runs the solution and saves the result in [results.json](https://github.com/swiftmg0d/aoc2024/blob/master/results.json)
