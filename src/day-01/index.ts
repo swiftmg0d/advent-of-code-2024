@@ -46,6 +46,5 @@ export const part2 = () => {
     const count = rightArray.filter((value) => value === curr).length
     return prev + curr * count
   }, 0)
-
   return result
 }

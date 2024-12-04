@@ -73,7 +73,7 @@ To run the solutions, you'll need to have [Node.js](https://nodejs.org/) and [Bu
    ```
 4. Run the solution for a specific day in watch mode:
    ```bash
-   bun setup <day-number> --watch  
+   bun day <day-number> --watch 
    ```
 5. Run the solution for a specific day:
    Runs the solution and saves the result in [results.json](https://github.com/swiftmg0d/aoc2024/blob/master/results.json)
