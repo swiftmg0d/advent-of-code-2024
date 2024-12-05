@@ -54,5 +54,19 @@
       "date": "Wed, 04 Dec 2024 07:45:59 GMT",
       "performance": "2.01 ms"
     }
+  },
+  "day5": {
+    "part1": {
+      "solved": true,
+      "result": 4957,
+      "date": "Thu, 05 Dec 2024 08:20:07 GMT",
+      "performance": "199.48 ms"
+    },
+    "part2": {
+      "solved": true,
+      "result": 6938,
+      "date": "Thu, 05 Dec 2024 08:20:07 GMT",
+      "performance": "187.18 ms"
+    }
   }
 }
