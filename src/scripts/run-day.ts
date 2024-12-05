@@ -45,13 +45,11 @@ const runDay = async (day: number, isDevMode?: boolean, isWatchMode?: boolean) =
       [`day${day}`]: {
         part1: {
           solved: !!one,
-          result: one || null,
           date: one ? new Date().toUTCString() : null,
           performance: `${onePerformance.toFixed(2)} ms`
         },
         part2: {
           solved: !!two,
-          result: two || null,
           date: two ? new Date().toUTCString() : null,
           performance: `${twoPerformance.toFixed(2)} ms`
 

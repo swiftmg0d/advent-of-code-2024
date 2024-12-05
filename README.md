@@ -89,13 +89,11 @@ The `results.json` file has the following structure:
   "day1": {
     "part1": {
       "solved": true,
-      "result": 1882714,
       "date": "Tue, 03 Dec 2024 20:04:47 GMT",
       "performance": "5.05 ms"
     },
     "part2": {
       "solved": true,
-      "result": 100411201,
       "date": "Tue, 03 Dec 2024 20:35:16 GMT",
       "performance": "5.73 ms"
     }
