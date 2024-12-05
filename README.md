@@ -50,7 +50,7 @@ Here's my progress so far:
 [![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-25)
 
 ## Star Collection 
-Stars collected: **10gi/50**⭐
+Stars collected: **10/50**⭐
 
 ## Solutions
 
