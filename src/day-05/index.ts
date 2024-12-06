@@ -21,8 +21,6 @@ export const part1Utils = {
 }
 
 export const part1 = () => {
-  const lines = parseLines(input)
-
   const [arrRules, arrRuleExecution] = part1Utils.getRulesAndExecutionOrder()
 
   const arrTemp: string[] = []
@@ -61,7 +59,7 @@ export const part2 = () => {
 
   arrRuleExecution.forEach((line) => {
     let ruleCorrect = true
-    const rules = []
+    const rules: string[] = []
 
     line.split(',').forEach((value, index) => {
       if (index === 0) { return }
@@ -81,25 +79,19 @@ export const part2 = () => {
     }
   })
 
-  const inCorrectOrder = (x, y) => arrRules.includes(`${y}|${x}`)
+  const inCorrectOrder = (x: string, y: string) => arrRules.includes(`${x}|${y}`)
 
-  const bubbleSortUpdate = (update: string) => {
-    const arr = update.split(',')
-    const n = arr.length
-    for (let i = 0; i < n; i++) {
-      for (let j = 0; j < n - i - 1; j++) {
-        if (inCorrectOrder(arr[j], arr[j + 1])) {
-          [arr[j], arr[j + 1]] = [arr[j + 1], arr[j]]
-        }
-      }
-    }
-    return arr.join(',')
+  const sortUpdate = (update: string): [string[], number] => {
+    const arr: string[] = update.split(',')
+    arr.sort((a, b) => (inCorrectOrder(a, b) ? -1 : 1))
+    return [arr, Math.floor(arr.length / 2)]
   }
+
   let result = 0
   arrWrongRules.forEach((value, key) => {
-    const sortedUpdate = bubbleSortUpdate(key)
-    const index: number = sortedUpdate.split(',').length % 2 === 0 ? sortedUpdate.split(',').length / 2 : Math.floor(sortedUpdate.split(',').length / 2)
-    result += Number(sortedUpdate.split(',')[index])
+    const [sortedUpdate, index] = sortUpdate(key)
+    result += Number(sortedUpdate[index])
   })
+  console.log(result)
   return result
 }
