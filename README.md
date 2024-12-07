@@ -29,7 +29,7 @@ Here's my progress so far:
 [![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-04)
 [![Day](https://badgen.net/badge/05/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-05)
 [![Day](https://badgen.net/badge/06/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-06)
-[![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-07)
+[![Day](https://badgen.net/badge/07/%E2%98%85%E2%98%85/green)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-07)
 [![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-08)
 [![Day](https://badgen.net/badge/09/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-09)
 [![Day](https://badgen.net/badge/10/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-10)
@@ -50,7 +50,7 @@ Here's my progress so far:
 [![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/gray)](https://github.com/swiftmg0d/advent-of-code-2024/tree/master/src/day-25)
 
 ## Star Collection 
-Stars collected: **12/50**⭐
+Stars collected: **14/50**⭐
 
 ## Solutions
 

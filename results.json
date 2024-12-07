@@ -62,13 +62,25 @@
   "day6": {
     "part1": {
       "solved": true,
-      "date": "Fri, 06 Dec 2024 07:28:30 GMT",
-      "performance": "29.87 ms"
+      "date": "Fri, 06 Dec 2024 08:14:51 GMT",
+      "performance": "5.99 ms"
     },
     "part2": {
       "solved": true,
-      "date": "Fri, 06 Dec 2024 07:28:30 GMT",
-      "performance": "73777.85 ms"
+      "date": "Fri, 06 Dec 2024 08:14:51 GMT",
+      "performance": "23623.79 ms"
+    }
+  },
+  "day7": {
+    "part1": {
+      "solved": true,
+      "date": "Sat, 07 Dec 2024 08:11:20 GMT",
+      "performance": "64.54 ms"
+    },
+    "part2": {
+      "solved": true,
+      "date": "Sat, 07 Dec 2024 08:11:20 GMT",
+      "performance": "12038.68 ms"
     }
   }
 }
