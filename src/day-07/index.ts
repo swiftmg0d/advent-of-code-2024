@@ -7,6 +7,7 @@ const input = await readInput('day-07')
 
 //   }
 // }
+/
 const generateCombinations = (symbols: string[], times: number) => {
   const number0fCombinations = symbols.length ** (times)
   const combinations: string[][] = []
@@ -22,7 +23,8 @@ const generateCombinations = (symbols: string[], times: number) => {
   return combinations
 }
 
-const calculate = (combination: string[], arr: number[], targetNumber: number, part: 'P1' | 'P2') => {
+const calculate = (combination: string[], arr: number[], targetNumber: number, part: 'P1' | 'P2') => { // TODO fix thi
+
   let sum = arr[0]
   for (let i = 1; i < arr.length; i++) {
     if (combination[i - 1] == '*') {

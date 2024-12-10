@@ -82,5 +82,41 @@
       "date": "Sat, 07 Dec 2024 08:11:20 GMT",
       "performance": "12038.68 ms"
     }
+  },
+  "day9": {
+    "part1": {
+      "solved": true,
+      "date": "Tue, 10 Dec 2024 14:41:05 GMT",
+      "performance": "635.35 ms"
+    },
+    "part2": {
+      "solved": true,
+      "date": "Tue, 10 Dec 2024 14:41:05 GMT",
+      "performance": "270.60 ms"
+    }
+  },
+  "day10": {
+    "part1": {
+      "solved": true,
+      "date": "Tue, 10 Dec 2024 14:41:22 GMT",
+      "performance": "10.99 ms"
+    },
+    "part2": {
+      "solved": true,
+      "date": "Tue, 10 Dec 2024 14:41:22 GMT",
+      "performance": "7.46 ms"
+    }
+  },
+  "day8": {
+    "part1": {
+      "solved": true,
+      "date": "Tue, 10 Dec 2024 14:41:01 GMT",
+      "performance": "2.92 ms"
+    },
+    "part2": {
+      "solved": true,
+      "date": "Tue, 10 Dec 2024 14:41:01 GMT",
+      "performance": "12.17 ms"
+    }
   }
 }
