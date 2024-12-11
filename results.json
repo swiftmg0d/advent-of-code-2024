@@ -118,5 +118,17 @@
       "date": "Tue, 10 Dec 2024 14:41:01 GMT",
       "performance": "12.17 ms"
     }
+  },
+  "day11": {
+    "part1": {
+      "solved": true,
+      "date": "Wed, 11 Dec 2024 16:31:29 GMT",
+      "performance": "6.08 ms"
+    },
+    "part2": {
+      "solved": true,
+      "date": "Wed, 11 Dec 2024 16:31:29 GMT",
+      "performance": "2.88 ms"
+    }
   }
 }
